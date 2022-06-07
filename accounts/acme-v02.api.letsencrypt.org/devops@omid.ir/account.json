@@ -1,0 +1,12 @@
+{
+	"email": "devops@omid.ir",
+	"registration": {
+		"body": {
+			"status": "valid",
+			"contact": [
+				"mailto:devops@omid.ir"
+			]
+		},
+		"uri": "https://acme-v02.api.letsencrypt.org/acme/acct/108323094"
+	}
+}
