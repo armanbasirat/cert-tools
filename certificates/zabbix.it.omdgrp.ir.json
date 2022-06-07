@@ -1,5 +1,0 @@
-{
-	"domain": "zabbix.it.omdgrp.ir",
-	"certUrl": "https://acme-v02.api.letsencrypt.org/acme/cert/03212b32e7c4eebdbc1beef46fba0fd3e3fd",
-	"certStableUrl": "https://acme-v02.api.letsencrypt.org/acme/cert/03212b32e7c4eebdbc1beef46fba0fd3e3fd"
-}
